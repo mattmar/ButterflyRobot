@@ -11,5 +11,10 @@ The device was built with these parts:
 - Jumper wires.
 - A high resolution two-sided colour printout of butterfly wings.
 
+## Showcasing the device during behaviour trials in outdoor arenas
+
+![Butterfly robot - showcase](media/Anthocharys_robot.gif)
+
+## Circuit diagram built with tinkercad
 
 ![plot](./media/ButterflyWings.png)
